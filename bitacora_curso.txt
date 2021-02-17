@@ -1,0 +1,10 @@
+Curso de Django Proyecto web
+
+https://www.youtube.com/watch?v=1DSi4in2VNA&list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB&index=26&ab_channel=pildorasinformaticas
+
+Video 26
+
+Introducciòn del proyecto completo de django
+
+Video 27
+
