@@ -11,3 +11,14 @@ Video 27
 Creaciòn de Vistas y Urls
 
 Se crean las vistas del nav bar ,probando cada una de las uls habilitadas en el navegador
+
+
+Video 28
+
+Re-Organizaciòn de urls en su respectivo app para tener más modular el proyecto incluyendo un nuevo URLconf
+
+Including another URLconf
+    1. Import the include() function: from django.urls import include, path
+    2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
+
+Y se agregan los templates del nav bar, se validan y funcionan
