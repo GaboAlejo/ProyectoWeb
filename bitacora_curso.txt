@@ -8,3 +8,6 @@ Introducciòn del proyecto completo de django
 
 Video 27
 
+Creaciòn de Vistas y Urls
+
+Se crean las vistas del nav bar ,probando cada una de las uls habilitadas en el navegador
