@@ -22,3 +22,8 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 
 Y se agregan los templates del nav bar, se validan y funcionan
+
+
+Video 29
+
+Se agrega Bootstrap ,ccs en carpeta static,se agrega la plantilla home.html
