@@ -27,3 +27,7 @@ Y se agregan los templates del nav bar, se validan y funcionan
 Video 29
 
 Se agrega Bootstrap ,ccs en carpeta static,se agrega la plantilla home.html
+
+video 30
+Se agrega la instrucciòn {% load static %} en home ,y se modifican rutas de las ligas
+Herencia de template base.html
