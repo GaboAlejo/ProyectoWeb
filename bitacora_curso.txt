@@ -31,3 +31,8 @@ Se agrega Bootstrap ,ccs en carpeta static,se agrega la plantilla home.html
 video 30
 Se agrega la instrucciòn {% load static %} en home ,y se modifican rutas de las ligas
 Herencia de template base.html
+
+
+video 31 se agrega la herencia en los demàs templates y se modifica el active
+
+{% if request.path == '/servicios' %}active{% endif %}
