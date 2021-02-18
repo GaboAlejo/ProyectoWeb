@@ -36,3 +36,6 @@ Herencia de template base.html
 video 31 se agrega la herencia en los demàs templates y se modifica el active
 
 {% if request.path == '/servicios' %}active{% endif %}
+
+
+video 32 se crea la app 'servicios' y se crea el modelo de servicio en models.py
