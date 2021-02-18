@@ -39,3 +39,10 @@ video 31 se agrega la herencia en los demàs templates y se modifica el active
 
 
 video 32 se crea la app 'servicios' y se crea el modelo de servicio en models.py
+
+
+
+
+video 33 y 34 creacion de super usuario y se agrefa la app en el panel de admin
+python manage.py createsuperuser
+se configura la imagen de los servicios
